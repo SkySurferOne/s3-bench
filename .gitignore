@@ -17,4 +17,5 @@ pip-selfcheck.json
 !Examples/*.gif
 
 .idea/
-files/
+files/*
+!files/.gitkeep
